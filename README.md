@@ -1,21 +1,37 @@
 # python-bot
 This Is A Advanced Telegram Refer And Earn Bot Developed In Python 
 
-## How To Deploy On Pythonanywhere
+## How To Deploy On Pythonanywhere Or Local
 
 First Fork This Repository And Edits Details On Main.py File
 
 ### Now Go To Pythonanywhere And Open Bash Shell
 
-Now Run The Following Commands
+ Now Run The Following Commands
 
-```git clone <Your Repository Url> BOT```
+- First Clone The Repository
 
-```cd BOT ```
+```bash
+git clone <Your Repository Url> BOT
+```
+- After Cloning Change The Working Directory 
 
-```pip install -r requirement.txt```
 
-```python main.py```
+```bash
+cd BOT
+ ```
+
+- Now Install The All Required Packages
+
+```bash
+pip install -r requirement.txt
+```
+
+- After Package Install Now Run The Bot
+
+```bash
+python main.py
+```
 
 For Video Tutorial [Click Here](https://youtu.be/z1UY8UjQpKw)
 
