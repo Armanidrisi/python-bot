@@ -17,6 +17,6 @@ Now Run The Following Commands
 
 ```python main.py```
 
-For Video Tutorial [Click Here](https://youtu.be)
+For Video Tutorial [Click Here](https://youtu.be/z1UY8UjQpKw)
 
 - Dont Forget To Subscribe Our Youtube Channel
