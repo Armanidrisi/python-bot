@@ -37,4 +37,6 @@ For Video Tutorial [Click Here](https://youtu.be/z1UY8UjQpKw)
 
 - Dont Forget To Subscribe Our Youtube Channel
 
-- Please Give One Start To The Repository 
+[![https://telegram.me/botcodes123](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/botcodes123)
+[![https://telegram.me/Mohd_arman_idrisi01](https://img.shields.io/badge/Telegram-@mohd_arman_idrisi01-blue.svg?style=flat-square)](https://telegram.me/Mohd_arman_idrisi01)
+ 
