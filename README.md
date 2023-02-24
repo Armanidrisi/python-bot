@@ -1,7 +1,7 @@
 # python-bot
 This Is A Advanced Telegram Refer And Earn Bot Developed In Python 
 
-## How To Deploy On Pythonanywhere Or Local
+## How To Deploy On Pythonanywhere
 
 First Fork This Repository And Edits Details On Main.py File
 
