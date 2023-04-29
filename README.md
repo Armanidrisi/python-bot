@@ -16,8 +16,8 @@ This is a Telegram bot created using Python and PyTelegramBotAPI that allows use
 1. Clone the repository to your local machine
 2. Install the dependencies using `pip install -r requirements.txt`
 3. Create a Telegram bot using [BotFather](https://core.telegram.org/bots#6-botfather) and get your bot token
-4. Update the `python-chatgpt-bot.py` file with your bot token
-5. Run the bot using `python-chatgpt-bot.py` bot.py`
+4. Update the `main.py` file with your bot token
+5. Run the bot using `python main.py`
 
 Once the bot is running, users can interact with it by messaging it on Telegram. They can use the `/start` command to begin the referral process and receive their referral link. They can then share this link with their friends, who can use it to join the bot. The bot will automatically keep track of successful referrals and assign rewards accordingly.
 
