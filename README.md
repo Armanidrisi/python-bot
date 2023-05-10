@@ -9,6 +9,12 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Armanidrisi/python-bot)
 ![GitHub stars](https://img.shields.io/github/stars/Armanidrisi/python-bot)
 
+### &#8627; Stargazers
+[![Stargazers repo roster for @Armanidrisi/python-bot](https://reporoster.com/stars/Armanidrisi/python-bot)](https://github.com/Armanidrisi/python-bot/stargazers)
+
+### &#8627; Forkers
+[![Forkers repo roster for @Armanidrisi/python-bot](https://reporoster.com/forks/Armanidrisi/python-bot)](https://github.com/Armanidrisi/python-bot/network/members)
+
 This is a Telegram bot created using Python and PyTelegramBotAPI that allows users to refer their friends to the bot and earn rewards in return. The bot is designed to keep track of user referrals and assign rewards based on the number of successful referrals made.
 
 ## 🚀 How to Use
