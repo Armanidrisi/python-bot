@@ -32,14 +32,3 @@ Once the bot is running, users can interact with it by messaging it on Telegram.
 ![Python version](https://img.shields.io/badge/python-3.9-blue)
 ![PyTelegramBotAPI version](https://img.shields.io/badge/PyTelegramBotAPI-3.8.2-green)
 
-## 🎥 Video Tutorial
-
-[![Watch the video](https://img.youtube.com/vi/z1UY8UjQpKw/0.jpg)](https://www.youtube.com/watch?v=z1UY8UjQpKw)
-
-## 👨‍💻 Author
-
-This project was created by [Arman Idrisi](https://github.com/Armanidrisi).
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
